@@ -12,7 +12,7 @@ int main()
     printf("Program to process a 2D array A[N][N] of real numbers in the interval [-1000, 1000].\n");
 
     // Отпечатване на името на автора на програмата
-    printf("Author: Boris Aladzhov\n");
+    printf("Author: Boris\n");
 
     // Въвеждане на размерността на масива
     printf("Enter the dimension of the array: ");
